@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Finance",
+  "description": "Empowered Serenity wealth management & AI coaching app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
